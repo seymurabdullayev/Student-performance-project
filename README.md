@@ -3,11 +3,12 @@ A data analysis project exploring student attendance, course performance, and ac
 
 
 ## Project structure
-1. University_students.sql - SQL file that builds and populates the database.
-2. University_students_model_view.mwb - MySQL schema diagram for database structure.
-3. Power BI Dashboards - Visual representations of selected analytical queries.
-4. Questions results - CSV files generated from 12 SQL queries answering key business questions.
-5. Tables - Contains 5 data tables used in the analysis ("students", "courses", "attendance", "grades" and "student_courses").
+1. [University_students.sql](./University_students.sql) - SQL file that builds and populates the database.
+2. [University_students_model_view.mwb](./University_students_model_view.mwb) - MySQL schema diagram for database structure.
+3. [Power BI Dashboards](./Power%20BI%20Dashboards/) - Visual representations of selected analytical queries.
+4. [Questions results](./Questions%20result/) - CSV files generated from 12 SQL queries answering key business questions.
+5. [Tables](./Tables/) - Contains 5 data tables used in the analysis ("students", "courses", "attendance", "grades" and "student_courses").
+
 
 ## 🛠️Technologies used 
 1. Mockaroo.com - Used to generate realistic sample data for some database tables.
