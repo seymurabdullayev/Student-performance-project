@@ -33,9 +33,30 @@ Here are examples of the analytical questions I answered using SQL:
 3. How has enrollment (enrollment_year) increased or decreased over the years?
 4. What is the academic performance of students with the highest course load?
 
-➡️ Each question was solved through an individual SQL query, and the corresponding result was saved as a separate CSV file.
-All results can be found in the "Questions results" folder.
+➡️ Each question was solved through an individual SQL query, and the corresponding result was saved as a separate CSV file. All results can be found in the [Questions results](./Questions%20results/) folder.
 
 ## 📊 Dashboard Previews
 Here are a few Power BI visualizations based on SQL outputs:
+
+![3. Poor Attendance](https://github.com/seymurabdullayev/Student-performance-project/blob/main/Power%20BI%20Dashboards/Photos%20of%20Dashboards/3.%20Poor%20attendance.png?raw=true)
+
+![8. Total Credits by Students](https://github.com/seymurabdullayev/Student-performance-project/blob/main/Power%20BI%20Dashboards/Photos%20of%20Dashboards/8.%20Total%20credits%20by%20students.png?raw=true)
+
+➡️ Full dashboards are available in the [Power BI Dashboards/](./Power%20BI%20Dashboards/) folder.
+
+
+## 📌 Highlights
+
+- ✅ Generated realistic datasets using both Mockaroo and Python for diverse data modeling.
+- ✅ Designed a normalized relational database with 5 interconnected tables.
+- ✅ Wrote 12 SQL queries to answer business-like questions.
+- ✅ Visualized key insights using Power BI dashboards.
+- ✅ Suitable for portfolio, showcasing SQL + BI integration.
+
+## 📬 Contact
+
+Feel free to reach out if you'd like to collaborate or give feedback on the project!
+
+📧 [Email](mailto:abdullazadeh.seymur@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/seymurabdullayev/)
 
