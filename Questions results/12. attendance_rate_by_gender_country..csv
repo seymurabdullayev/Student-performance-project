@@ -1,0 +1,48 @@
+gender;country;attendance_rate
+Male;Spain;100
+Male;Luxembourg;100
+Female;Australia;100
+Female;Netherlands;100
+Male;Ireland;100
+Female;Hungary;100
+Male;Malta;100
+Female;Belgium;80
+Male;Slovenia;75
+Female;Finland;75
+Male;Lithuania;75
+Female;Lithuania;75
+Female;Italy;71.43
+Female;South Africa;71.43
+Male;Norway;70
+Female;Czech Republic;69.39
+Male;Finland;69.23
+Female;Spain;66.67
+Female;Ireland;66.67
+Female;Slovenia;66.67
+Female;France;66.13
+Female;Greece;64.71
+Female;New Zealand;63.64
+Female;Portugal;62.67
+Female;Sweden;61.02
+Male;Sweden;60.61
+Female;Bosnia and Herzegovina;60
+Male;Czech Republic;60
+Female;Poland;59.21
+Male;France;53.73
+Male;Poland;53.42
+Male;South Africa;52.94
+Male;Portugal;52.17
+Female;Canada;51.85
+Male;Ukraine;50
+Male;Canada;50
+Male;Latvia;50
+Female;Ukraine;50
+Male;Croatia;50
+Female;Azerbaijan;50
+Male;Azerbaijan;46.67
+Female;Germany;46.15
+Male;Greece;42.86
+Female;Norway;40
+Male;Netherlands;33.33
+Female;Croatia;25
+Female;Latvia;0

@@ -1,0 +1,172 @@
+student_id;first_name;last_name;major;gpa;avg_gpa
+3;Judy;Dake;Behavioral Robotics;4.62;3.24
+4;Rem;Cheal;Crypto Economics;4.81;3.34
+8;Alix;Smiths;Space Habitat Engineering;4.72;3.28
+9;Chip;Kielty;Neuroaesthetics;3.55;3.36
+16;Barbey;Riley;Crypto Economics;4.37;3.34
+17;Sybil;Flint;Digital Sociology;4.06;3.3
+20;Cary;McElory;Virtual Reality Therapy;4.61;3.54
+21;Demetri;McDuall;Geospatial Intelligence;4.52;3.71
+24;Irvine;MacCleay;Digital Sociology;4.45;3.3
+25;Orella;Dowrey;Deep Learning in Medicine;4.97;3.74
+26;Lockwood;Gourdon;Digital Twin Systems;4.31;3.58
+30;Nanon;Walbrun;Applied Data Systems;4.45;3.94
+31;Seymur ;Abdullayev;Data-Driven Marketing;4.29;3.51
+33;Tommi;Gascard;Sustainable Food Systems;4.75;3.4
+40;Burton;Dufour;Cultural Data Science;3.78;3.17
+42;Xerxes;McGinn;Biomedical Nanotechnology;4.61;3.04
+43;Maggie;Dickings;Digital Ethics and AI Law;4.31;3.46
+44;Pietra;Server;Virtual Reality Therapy;4.73;3.54
+45;Niven;MacIlhagga;Urban Sustainability;4.01;3.32
+49;Brucie;Stife;Data-Driven Marketing;3.89;3.51
+50;Brett;Dagger;AI-Assisted Law;4.56;3.8
+51;Graham;Lillistone;Space Habitat Engineering;3.67;3.28
+52;Lanna;Trippitt;Environmental Neurobiology;3.79;3.38
+55;Rafaello;Rickerby;Quantum Architecture;4.29;3.65
+57;Rufat;Shirvanli;Data-Driven Marketing;4.51;3.51
+60;Margarete;Letherbury;Bioelectric Engineering;4.5;3.63
+62;Nesta;Latus;Fintech Innovations;3.8;3.63
+64;Bing;Tobias;Applied Data Systems;4.55;3.94
+65;Bili;Pembridge;Space Tourism Management;4.02;4
+66;Elwyn;Horley;Synthetic Biology Design;3.91;3.78
+68;Malia;Peyto;Virtual Reality Therapy;3.72;3.54
+70;Jerry;Van der Daal;Algorithmic Journalism;4.59;3.4
+74;Jonis;Dessaur;Automated Supply Chain Systems;3.65;2.88
+75;Alidia;Clench;Computational Literature;4.96;3.65
+77;Julie;Popescu;Quantum Architecture;4.74;3.65
+78;Reinwald;Dugmore;Smart Grid Engineering;3.67;3.23
+79;Linea;Earngy;Urban Sustainability;3.38;3.32
+80;Lilian;Reglar;Sustainable Food Systems;4.39;3.4
+81;Silvano;Kenner;Automated Supply Chain Systems;3.39;2.88
+82;Fae;Boone;Deep Learning in Medicine;4.96;3.74
+88;Corbin;Catling;Crypto Economics;3.6;3.34
+89;Katharyn;Cockshoot;Cognitive Game Design;3.94;3.47
+92;Elwira;Ludovici;Crypto Economics;3.89;3.34
+93;Darrin;Crass;Robotics and Human Interaction;4.94;4
+96;Lolly;Vereker;Smart Grid Engineering;3.87;3.23
+97;Nata;Attenborough;Emotional AI Research;4.53;3.45
+99;Anatollo;Ivanchov;Virtual Reality Therapy;4.97;3.54
+102;Mella;Ajean;Deep Learning in Medicine;3.99;3.74
+104;Ivett;Wylie;Synthetic Biology Design;4.3;3.78
+105;Kathlin;Rubberts;Sustainable Urban Planning;4.25;3.58
+111;Alessandra;Huyton;Geospatial Intelligence;4.28;3.71
+112;Thor;Colchett;Cybernetic Education Models;4;3.2
+114;Clayborn;Paoloni;Algorithmic Journalism;4.47;3.4
+116;Godiva;Merrgan;Fintech Innovations;3.84;3.63
+117;Skipper;Catterall;Interstellar Communications;3.53;3.52
+122;Ashly;Tudhope;Cognitive Game Design;4.13;3.47
+125;Chryste;Wilflinger;Digital Twin Systems;3.67;3.58
+129;Silvano;MacNelly;Environmental Neurobiology;3.81;3.38
+130;Orella;Winks;Biomedical Nanotechnology;4.12;3.04
+131;Shaun;Etches;Data-Driven Marketing;4.93;3.51
+133;Shaina;Esbrook;Post-Human Studies;4.13;3.27
+135;Padget;Corkett;Environmental Neurobiology;4.15;3.38
+137;Thorpe;Glazyer;Crypto Economics;4.95;3.34
+139;Magdalene;Tredger;Cybernetic Education Models;3.61;3.2
+144;Aluin;Tyers;Creative Intelligence;3.83;3.48
+146;Odelinda;Derks;Deep Learning in Medicine;4.36;3.74
+147;Silvester;Mattheissen;Behavioral Robotics;3.37;3.24
+148;Otis;Bromet;Behavioral Robotics;3.41;3.24
+150;Don;Vallens;Quantum Architecture;4.15;3.65
+153;Jayme;Priver;Synthetic Biology Design;4.81;3.78
+154;Paula;Gofton;Crypto Economics;3.55;3.34
+155;Mordy;Edmands;Holographic Media Design;3.08;3.01
+159;Dalenna;Eagar;AI-Powered Design;4.4;3.03
+160;Laurent;Pickthorn;Post-Human Studies;3.29;3.27
+165;Michel;O'Lynn;Precision Agriculture Technology;3.32;3.24
+169;Jase;De la Zenne;Fintech Innovations;4.72;3.63
+171;Lynsey;Caldeiro;Synthetic Biology Design;4.98;3.78
+179;Vanya;Grund;Precision Agriculture Technology;3.4;3.24
+181;Delano;Parkinson;Emotional AI Research;3.66;3.45
+182;Addie;Frere;AI-Powered Design;4.46;3.03
+183;Morgun;Appleyard;Cultural Data Science;4.74;3.17
+186;Marlyn;Bugden;Interstellar Communications;4.07;3.52
+187;Bill;Hillaby;Environmental Neurobiology;4.55;3.38
+189;Hurleigh;Haitlie;Cognitive Game Design;3.91;3.47
+191;Adore;Tarney;Post-Human Studies;4.69;3.27
+194;Marnia;Dorre;Space Tourism Management;4.47;4
+195;York;Mizzi;Crypto Economics;3.41;3.34
+203;Gus;Scahill;Synthetic Biology Design;4.19;3.78
+210;Stephi;Fateley;Post-Human Studies;3.28;3.27
+213;Herb;Pavlata;Environmental Neurobiology;4.66;3.38
+218;Reinaldos;Roscamps;Digital Sociology;3.68;3.3
+220;Nari;Antill;Esports Event Management;4.65;3.83
+221;Olivero;Cowley;Bioelectric Engineering;4.06;3.63
+224;Ursuline;Kropp;Space Tourism Management;4.63;4
+225;Kerby;Wederell;Space Habitat Engineering;3.95;3.28
+229;Allister;Sleightholme;AI-Powered Design;3.25;3.03
+231;Lovell;Macy;Biomedical Nanotechnology;4.77;3.04
+232;Cullan;Di Angelo;Virtual Reality Therapy;4.41;3.54
+233;Michele;Thackray;Digital Twin Systems;4.06;3.58
+234;Maximilianus;Karslake;Space Tourism Management;4.62;4
+235;Alyce;Predohl;Digital Sociology;4.28;3.3
+236;Drew;Ketchaside;Space Tourism Management;4.13;4
+240;Glen;Caldayrou;Sustainable Urban Planning;4.29;3.58
+241;Candy;Spiers;Synthetic Biology Design;5;3.78
+242;Cross;Possell;Applied Data Systems;4.26;3.94
+244;Alasteir;Hayter;Cybernetic Education Models;3.8;3.2
+245;Killian;Geffinger;Data-Driven Marketing;3.92;3.51
+246;Alfi;Mosedill;Interstellar Communications;4.28;3.52
+247;Ellary;Greatbanks;AI-Assisted Law;4.26;3.8
+250;Blake;Legging;Cybernetic Education Models;3.68;3.2
+251;Hally;Foakes;Deep Learning in Medicine;4.71;3.74
+255;Ranee;Shovell;Cultural Data Science;3.28;3.17
+256;Natalie;Fouracre;Creative Intelligence;4.72;3.48
+257;Willette;Isgate;Interstellar Communications;3.7;3.52
+259;Mirabella;Silvester;Bioelectric Engineering;4.72;3.63
+260;Jaquenette;Durston;Sustainable Urban Planning;4.29;3.58
+263;Tami;Crich;Smart Grid Engineering;4.88;3.23
+264;Brear;Ostrich;Augmented Reality Education;4.81;2.78
+265;Irma;Gilliat;Geospatial Intelligence;4.72;3.71
+266;Enid;Cornehl;Computational Literature;4.14;3.65
+267;Carla;Siccombe;AI-Assisted Law;4.41;3.8
+269;Vlad;Malicki;Fintech Innovations;4.43;3.63
+270;Blithe;Whannel;Creative Intelligence;4.16;3.48
+274;Elka;Dockrey;Data-Driven Marketing;4.77;3.51
+277;Llywellyn;Winders;Bioelectric Engineering;4.64;3.63
+279;Harli;Hearn;Human-Centered Cybersecurity;4.44;3.42
+280;Yetta;Parmeter;Data-Driven Marketing;4.85;3.51
+281;Aimil;Rengger;Neuroaesthetics;4.44;3.36
+282;Rodger;Babbidge;Holographic Media Design;3.27;3.01
+283;Daphna;Denman;Digital Sociology;4.14;3.3
+284;Guillaume;Mathiassen;Synthetic Biology Design;4.37;3.78
+286;Vasilis;Rockhall;Sustainable Urban Planning;3.85;3.58
+287;Etty;Craighall;Cognitive Game Design;3.65;3.47
+288;Hatti;Burrus;Fintech Innovations;4.97;3.63
+289;Chilton;Le Prevost;Digital Ethics and AI Law;3.65;3.46
+291;Joby;Skitral;Precision Agriculture Technology;4;3.24
+292;Geordie;Agus;Geospatial Intelligence;4.79;3.71
+293;Robinet;De Ruel;Deep Learning in Medicine;4.79;3.74
+294;Phil;Kibble;Crypto Economics;3.48;3.34
+295;Gratia;Castanone;Crypto Economics;4.83;3.34
+296;Amity;Goodbarne;Sustainable Urban Planning;4.58;3.58
+297;Liliane;Escolme;Interstellar Communications;3.53;3.52
+299;Staci;Scanlon;Digital Ethics and AI Law;3.74;3.46
+300;Karia;Ellerey;Holographic Media Design;3.96;3.01
+301;Jacquelin;McGiff;Biomedical Nanotechnology;3.23;3.04
+302;Coralie;Shawe;Applied Data Systems;4.9;3.94
+303;Guss;Oxlee;Cybernetic Education Models;3.46;3.2
+306;Pier;Schleicher;Creative Intelligence;3.9;3.48
+307;Tab;Georgescu;Urban Sustainability;3.69;3.32
+312;Toma;Verity;Computational Literature;4.56;3.65
+313;Sal;Fagan;Precision Agriculture Technology;4.33;3.24
+315;Bathsheba;Stovin;Space Habitat Engineering;4.45;3.28
+316;Gerome;Smurfitt;Neuroaesthetics;3.44;3.36
+318;Mignonne;Beames;Crypto Economics;4.05;3.34
+320;Guthrey;Darracott;Environmental Neurobiology;4.04;3.38
+325;Web;Thresher;Geospatial Intelligence;4.28;3.71
+326;Shell;Somerbell;Social Media Analytics;3.65;2.98
+331;Harmonie;O'Lunney;Emotional AI Research;4.51;3.45
+332;Pepita;Eberdt;Esports Event Management;3.91;3.83
+333;Renaud;Scrase;Behavioral Robotics;4.37;3.24
+334;Fidelia;Jobbing;Cognitive Game Design;4.12;3.47
+337;Theodore;Veck;Quantum Architecture;4.09;3.65
+339;Martie;Kinver;Sustainable Urban Planning;4.83;3.58
+340;Linell;Bhar;Creative Intelligence;4.54;3.48
+341;Dore;Francello;Crypto Economics;4.11;3.34
+342;Matilda;Seaman;Virtual Reality Therapy;3.95;3.54
+343;Marjie;Rayson;Computational Literature;4.23;3.65
+344;Jeddy;Troughton;Urban Sustainability;4.21;3.32
+347;Priscella;Scarce;Applied Data Systems;4.11;3.94
+348;Cristi;Gillum;Human-Centered Cybersecurity;3.7;3.42
+350;Aretha;Cave;Data-Driven Marketing;4.41;3.51

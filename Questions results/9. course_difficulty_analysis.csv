@@ -1,0 +1,575 @@
+course_name;course_code;average_grade;student_count
+Corporate Finance;CO172;50;1
+Business Law;BU239;50;1
+Sociology Basics;SO705;50;1
+Political Science;PO135;52;1
+Microeconomics;MI313;52;1
+Linguistics Introduction;LI607;52;1
+Risk Management;RI708;52;1
+Microeconomics;MI800;52;1
+Classroom Management;CL008;53;1
+Investment Analysis;IN200;53;1
+Special Education Needs;SP209;53;1
+Accounting Principles;AC562;53;1
+International Relations;IN568;53;1
+International Business;IN570;53;1
+Operating Systems;OP293;54;1
+Modern Literature;MO387;54;1
+Introduction to Programming;IN397;54;1
+Philosophy of Science;PH466;54;1
+E-commerce Strategies;E-619;54;1
+Data Structures;DA734;54;1
+Banking and Finance;BA754;54;2
+Statistics for Data Science;ST039;55;1
+Digital Marketing;DI245;55;1
+Cybersecurity Basics;CY459;55.5;2
+Computer Networks;CO544;55.67;3
+International Business;IN002;56;1
+Macroeconomics;MA248;56;1
+Linear Algebra;LI357;56;1
+Cultural Anthropology;CU440;56;1
+Mobile App Development;MO507;56;1
+History of Europe;HI542;56;1
+International Relations;IN614;56;1
+Introduction to Programming;IN695;56;1
+Philosophy of Science;PH758;56;2
+History of Europe;HI573;56.5;2
+Modern Literature;MO658;56.5;2
+Civil Law;CI029;57;1
+History of Europe;HI157;57;1
+E-commerce Strategies;E-318;57;1
+Calculus I;CA366;57;1
+Advanced SQL Queries;AD419;57;1
+Digital Marketing;DI425;57;1
+Advanced SQL Queries;AD661;57;2
+Database Systems;DA762;57;1
+Human Resource Management;HU778;57;1
+Database Systems;DA495;57.5;2
+Cultural Anthropology;CU076;58;1
+Criminal Law;CR107;58;2
+Logistics Management;LO156;58;2
+Corporate Finance;CO208;58;2
+Operating Systems;OP257;58;2
+Philosophy of Science;PH386;58;1
+Database Systems;DA414;58;1
+Modern Literature;MO578;58;1
+Data Structures;DA731;58;1
+Database Systems;DA220;58.5;2
+Ethics and Society;ET243;58.75;4
+Blockchain Essentials;BL022;59;1
+Linguistics Introduction;LI044;59;1
+Media and Communication;ME196;59;2
+Project Management;PR455;59;1
+Artificial Intelligence;AR700;59;2
+Mobile App Development;MO741;59;1
+Machine Learning;MA761;59;1
+Data Analysis with Excel;DA597;59.5;2
+Operating Systems;OP138;60;2
+Mobile App Development;MO170;60;1
+Computer Networks;CO228;60;1
+General Chemistry;GE251;60;1
+Web Development;WE286;60;1
+Statistics for Data Science;ST388;60;1
+Introduction to Programming;IN545;60;1
+Artificial Intelligence;AR586;60;2
+Marketing Fundamentals;MA398;60.5;2
+Cultural Anthropology;CU096;61;1
+Academic Writing;AC115;61;1
+Calculus II;CA205;61;1
+Business Law;BU211;61;2
+Business Law;BU242;61;1
+Political Science;PO254;61;3
+Operating Systems;OP432;61;1
+Modern Literature;MO451;61;3
+Psychology of Learning;PS493;61;1
+Macroeconomics;MA501;61;3
+Philosophy of Science;PH516;61;1
+E-commerce Strategies;E-669;61;1
+Cloud Computing Fundamentals;CL714;61;1
+Classroom Management;CL760;61;1
+Political Science;PO662;61.25;4
+Corporate Finance;CO033;61.33;3
+Marketing Fundamentals;MA109;61.5;2
+Civil Law;CI710;61.5;2
+Operating Systems;OP016;62;1
+Cloud Computing Fundamentals;CL020;62;1
+Organizational Behavior;OR021;62;1
+Web Development;WE041;62;1
+Microeconomics;MI061;62;1
+Human Resource Management;HU165;62;1
+Sociology Basics;SO447;62;1
+Media and Communication;ME457;62;2
+Marketing Fundamentals;MA522;62;1
+General Chemistry;GE567;62;1
+Accounting Principles;AC656;62;2
+Macroeconomics;MA615;62.33;3
+Cybersecurity Basics;CY435;62.5;2
+E-commerce Strategies;E-492;62.5;2
+Physics for Engineers;PH073;62.75;4
+Web Development;WE230;63;1
+Corporate Finance;CO350;63;1
+Calculus I;CA429;63;3
+Database Systems;DA445;63;1
+Educational Psychology;ED465;63;3
+Philosophy of Science;PH467;63;1
+Statistics for Data Science;ST506;63;1
+Statistics for Data Science;ST512;63;1
+Machine Learning;MA557;63;1
+Macroeconomics;MA598;63;1
+Public Speaking;PU665;63;1
+Investment Analysis;IN682;63;1
+Classroom Management;CL582;63.25;4
+Educational Psychology;ED108;63.5;2
+Linguistics Introduction;LI091;63.67;3
+Classroom Management;CL037;64;1
+Public Speaking;PU078;64;1
+Modern Literature;MO079;64;2
+Linear Algebra;LI140;64;1
+Special Education Needs;SP409;64;1
+Public Speaking;PU477;64;1
+Mobile App Development;MO565;64;1
+Journalism Fundamentals;JO784;64;1
+Psychology of Learning;PS025;64.33;3
+Risk Management;RI383;64.33;3
+Computer Networks;CO334;64.5;2
+Data Structures;DA484;64.5;2
+Data Structures;DA224;65;1
+Marketing Fundamentals;MA231;65;1
+Special Education Needs;SP244;65;2
+International Business;IN751;65;1
+Big Data Technologies;BI767;65;1
+Financial Management;FI733;65.5;2
+Modern Literature;MO763;65.5;2
+International Relations;IN148;65.67;3
+Criminal Law;CR062;66;1
+Educational Psychology;ED111;66;1
+Criminal Law;CR141;66;2
+Advanced SQL Queries;AD167;66;1
+UX/UI Design Principles;UX294;66;1
+Linear Algebra;LI339;66;1
+Blockchain Essentials;BL499;66;1
+Computer Networks;CO532;66;1
+Cybersecurity Basics;CY635;66;3
+General Chemistry;GE645;66;1
+Organizational Behavior;OR256;66.33;3
+Statistics for Data Science;ST779;66.33;3
+Cloud Computing Fundamentals;CL369;66.67;3
+Special Education Needs;SP052;67;2
+Calculus I;CA075;67;2
+Introduction to Economics;IN576;67;1
+Database Systems;DA668;67;5
+Educational Psychology;ED131;67.5;4
+Risk Management;RI283;67.5;2
+Cloud Computing Fundamentals;CL234;68;2
+Cultural Anthropology;CU328;68;1
+Database Systems;DA431;68;1
+Computer Networks;CO462;68;2
+Risk Management;RI650;68;2
+Psychology of Learning;PS790;68;2
+Civil Law;CI395;68.2;5
+Criminal Law;CR110;68.5;2
+Accounting Principles;AC338;68.5;2
+Journalism Fundamentals;JO497;68.5;2
+International Business;IN232;68.67;3
+Modern Literature;MO304;68.67;3
+Ethics and Society;ET202;68.75;4
+Financial Management;FI042;69;1
+Introduction to Programming;IN071;69;2
+Logistics Management;LO104;69;2
+Microeconomics;MI193;69;1
+General Chemistry;GE223;69;3
+Corporate Finance;CO391;69;3
+Corporate Finance;CO415;69;3
+Project Management;PR591;69;2
+Digital Marketing;DI647;69;1
+Public Speaking;PU660;69;1
+Logistics Management;LO687;69;1
+Financial Management;FI706;69;1
+Linguistics Introduction;LI595;69.5;2
+UX/UI Design Principles;UX632;69.5;2
+Human Resource Management;HU684;69.5;2
+General Chemistry;GE752;69.5;2
+Machine Learning;MA252;69.67;3
+Introduction to Programming;IN722;69.67;3
+Logistics Management;LO043;70;3
+Artificial Intelligence;AR098;70;1
+Computer Networks;CO119;70;2
+Calculus II;CA130;70;2
+Artificial Intelligence;AR282;70;1
+Psychology of Learning;PS298;70;1
+E-commerce Strategies;E-498;70;1
+Cultural Anthropology;CU523;70;2
+Operating Systems;OP649;70;1
+Civil Law;CI663;70;2
+Business Law;BU685;70.33;3
+History of Europe;HI768;70.33;3
+Data Structures;DA146;70.5;2
+Big Data Technologies;BI166;70.5;2
+Environmental Studies;EN384;70.5;2
+Mobile App Development;MO312;70.67;3
+Logistics Management;LO074;71;1
+Corporate Finance;CO083;71;2
+Modern Literature;MO134;71;1
+Calculus I;CA153;71;1
+Philosophy of Science;PH159;71;2
+Linguistics Introduction;LI195;71;2
+Corporate Finance;CO274;71;2
+Civil Law;CI311;71;1
+Project Management;PR314;71;2
+Organizational Behavior;OR371;71;1
+Organizational Behavior;OR530;71;1
+Linguistics Introduction;LI672;71;1
+Linear Algebra;LI713;71;1
+Public Speaking;PU755;71;1
+UX/UI Design Principles;UX794;71;1
+Ethics and Society;ET281;71.5;2
+Educational Psychology;ED623;71.5;2
+Modern Literature;MO128;71.67;3
+Database Systems;DA720;71.75;4
+E-commerce Strategies;E-010;72;2
+Artificial Intelligence;AR017;72;1
+Computer Networks;CO124;72;1
+Philosophy of Science;PH319;72;2
+Organizational Behavior;OR454;72;1
+Advanced SQL Queries;AD628;72;1
+Calculus II;CA721;72;2
+Data Analysis with Excel;DA730;72;2
+Classroom Management;CL748;72;4
+Accounting Principles;AC765;72;2
+Creative Writing;CR787;72;3
+Marketing Fundamentals;MA740;72.25;4
+Philosophy of Science;PH179;72.33;3
+Corporate Finance;CO060;72.5;2
+Psychology of Learning;PS066;72.5;2
+Project Management;PR278;72.5;2
+E-commerce Strategies;E-396;72.5;2
+Physics for Engineers;PH769;72.5;2
+Criminal Law;CR324;72.8;5
+Computer Networks;CO004;73;1
+Linear Algebra;LI092;73;1
+Political Science;PO094;73;1
+Database Systems;DA100;73;1
+Big Data Technologies;BI404;73;2
+Introduction to Economics;IN430;73;2
+Journalism Fundamentals;JO688;73;1
+Web Development;WE694;73;2
+Criminal Law;CR770;73;1
+Creative Writing;CR643;73.33;3
+Academic Writing;AC471;73.4;5
+Project Management;PR187;73.5;2
+Linear Algebra;LI268;73.5;4
+Logistics Management;LO215;73.6;5
+Data Analysis with Excel;DA093;73.67;3
+Criminal Law;CR154;73.75;4
+Marketing Fundamentals;MA362;73.8;5
+Database Systems;DA120;74;1
+Human Resource Management;HU180;74;1
+Cloud Computing Fundamentals;CL236;74;1
+Logistics Management;LO579;74;1
+Physics for Engineers;PH681;74;2
+E-commerce Strategies;E-701;74;1
+Marketing Fundamentals;MA018;74.5;2
+Banking and Finance;BA051;74.5;2
+Macroeconomics;MA405;74.5;2
+Modern Literature;MO456;74.5;2
+Linguistics Introduction;LI181;74.6;5
+Financial Management;FI792;74.75;4
+Accounting Principles;AC035;74.8;5
+Project Management;PR142;75;3
+History of Europe;HI161;75;2
+International Relations;IN163;75;1
+Cloud Computing Fundamentals;CL276;75;1
+Philosophy of Science;PH335;75;1
+Civil Law;CI365;75;1
+Modern Literature;MO426;75;1
+Public Speaking;PU483;75;2
+Financial Management;FI490;75;1
+Risk Management;RI503;75;2
+Project Management;PR549;75;1
+Introduction to Programming;IN561;75;1
+Business Law;BU599;75;2
+Financial Management;FI612;75;2
+Cybersecurity Basics;CY749;75;2
+Cultural Anthropology;CU776;75;2
+Creative Writing;CR030;75.33;3
+Banking and Finance;BA149;75.33;3
+Web Development;WE378;75.33;3
+International Relations;IN023;75.5;2
+Marketing Fundamentals;MA197;75.5;2
+Investment Analysis;IN260;75.5;2
+Business Law;BU297;75.5;2
+Calculus I;CA347;75.5;2
+Big Data Technologies;BI766;75.5;2
+Cloud Computing Fundamentals;CL785;75.5;2
+Introduction to Programming;IN358;75.67;3
+Risk Management;RI510;75.8;5
+History of Europe;HI007;76;2
+Corporate Finance;CO077;76;1
+Creative Writing;CR085;76;1
+Logistics Management;LO114;76;1
+International Relations;IN121;76;2
+Business Law;BU199;76;2
+Calculus I;CA214;76;1
+Advanced SQL Queries;AD299;76;2
+Organizational Behavior;OR317;76;1
+Banking and Finance;BA329;76;1
+Digital Marketing;DI521;76;1
+Physics for Engineers;PH616;76;2
+Ethics and Society;ET709;76;2
+Financial Management;FI726;76;2
+Cultural Anthropology;CU613;76.25;4
+Accounting Principles;AC069;76.5;2
+Microeconomics;MI081;76.5;2
+Banking and Finance;BA122;76.5;2
+Advanced SQL Queries;AD192;76.5;2
+Journalism Fundamentals;JO194;76.5;2
+Computer Networks;CO641;76.67;3
+Cybersecurity Basics;CY014;77;1
+Data Analysis with Excel;DA058;77;2
+Physics for Engineers;PH101;77;1
+Blockchain Essentials;BL147;77;1
+Calculus II;CA188;77;3
+Computer Networks;CO258;77;3
+Calculus I;CA272;77;2
+Introduction to Economics;IN288;77;1
+Advanced SQL Queries;AD295;77;1
+Marketing Fundamentals;MA327;77;3
+Logistics Management;LO411;77;1
+Educational Psychology;ED553;77;1
+Investment Analysis;IN604;77;1
+Sociology Basics;SO636;77.5;2
+Classroom Management;CL644;77.75;4
+Psychology of Learning;PS001;78;2
+Business Law;BU003;78;2
+Advanced SQL Queries;AD127;78;1
+Cultural Anthropology;CU203;78;1
+Data Analysis with Excel;DA380;78;1
+Data Structures;DA390;78;1
+Introduction to Economics;IN550;78;1
+Calculus I;CA436;78.33;3
+Linear Algebra;LI182;78.5;2
+Investment Analysis;IN186;78.5;2
+Introduction to Programming;IN505;78.5;2
+Big Data Technologies;BI631;78.5;2
+Risk Management;RI780;78.5;2
+Mobile App Development;MO270;78.6;5
+Macroeconomics;MA485;78.67;3
+Ethics and Society;ET237;79;1
+Introduction to Economics;IN487;79;2
+International Business;IN646;79;1
+Investment Analysis;IN651;79;1
+Introduction to Programming;IN671;79;1
+International Relations;IN678;79.33;3
+Web Development;WE729;79.33;3
+Artificial Intelligence;AR190;79.5;2
+International Relations;IN175;79.67;3
+Sociology Basics;SO461;79.67;3
+Computer Networks;CO589;79.67;3
+Advanced SQL Queries;AD488;79.75;4
+Cybersecurity Basics;CY013;80;1
+Ethics and Society;ET303;80;1
+International Business;IN322;80;1
+International Business;IN491;80;1
+Financial Management;FI594;80;2
+Public Speaking;PU634;80;3
+Logistics Management;LO772;80;2
+Risk Management;RI191;80.33;3
+International Relations;IN458;80.33;3
+Media and Communication;ME764;80.5;2
+Web Development;WE046;81;1
+Cultural Anthropology;CU351;81;1
+Microeconomics;MI401;81;1
+Artificial Intelligence;AR427;81;1
+Mobile App Development;MO434;81;2
+Cloud Computing Fundamentals;CL686;81;2
+Cloud Computing Fundamentals;CL520;81.25;4
+International Business;IN112;81.5;2
+Marketing Fundamentals;MA287;81.5;2
+Cybersecurity Basics;CY655;81.5;2
+Physics for Engineers;PH082;81.67;3
+Civil Law;CI162;81.67;3
+Computer Networks;CO316;81.67;3
+Creative Writing;CR372;81.75;4
+Investment Analysis;IN212;82;1
+Banking and Finance;BA267;82;1
+Business Law;BU564;82;4
+Criminal Law;CR620;82;2
+Microeconomics;MI102;82.33;3
+Microeconomics;MI654;82.33;3
+History of Europe;HI067;82.5;2
+Organizational Behavior;OR438;82.5;2
+Data Analysis with Excel;DA508;82.5;2
+Ethics and Society;ET753;82.5;2
+Investment Analysis;IN519;82.67;3
+Classroom Management;CL116;83;1
+Mobile App Development;MO129;83;1
+Digital Marketing;DI168;83;2
+Physics for Engineers;PH333;83;2
+Cybersecurity Basics;CY657;83;1
+Data Analysis with Excel;DA690;83;3
+Computer Networks;CO716;83;3
+Linguistics Introduction;LI097;83.5;2
+Cloud Computing Fundamentals;CL528;83.5;2
+Philosophy of Science;PH715;83.5;2
+Political Science;PO771;83.5;2
+Financial Management;FI253;84;1
+History of Europe;HI259;84;2
+Big Data Technologies;BI381;84;1
+Logistics Management;LO439;84;1
+Financial Management;FI479;84;3
+Calculus I;CA556;84;3
+Advanced SQL Queries;AD560;84;1
+Creative Writing;CR601;84;1
+Philosophy of Science;PH608;84;1
+Linear Algebra;LI719;84;1
+Blockchain Essentials;BL799;84;1
+Educational Psychology;ED150;84.33;3
+Psychology of Learning;PS502;84.5;2
+Accounting Principles;AC698;84.5;2
+Psychology of Learning;PS118;85;1
+Cloud Computing Fundamentals;CL126;85;1
+Philosophy of Science;PH152;85;2
+Financial Management;FI158;85;1
+Introduction to Economics;IN160;85;1
+Investment Analysis;IN247;85;2
+Introduction to Programming;IN360;85;2
+Cybersecurity Basics;CY437;85;3
+Data Analysis with Excel;DA504;85;1
+General Chemistry;GE590;85;1
+Financial Management;FI593;85;2
+Artificial Intelligence;AR610;85;1
+Banking and Finance;BA624;85;1
+Media and Communication;ME782;85;2
+General Chemistry;GE789;85;1
+Modern Literature;MO476;85.33;3
+Risk Management;RI486;85.33;3
+Data Analysis with Excel;DA204;85.5;2
+Data Analysis with Excel;DA229;85.5;2
+Calculus I;CA289;85.5;2
+International Business;IN433;85.5;2
+Introduction to Programming;IN666;85.5;2
+Computer Networks;CO024;86;1
+Physics for Engineers;PH050;86;1
+Digital Marketing;DI064;86;1
+Operating Systems;OP136;86;1
+Mobile App Development;MO273;86;1
+Marketing Fundamentals;MA543;86;1
+Linear Algebra;LI622;86;1
+Artificial Intelligence;AR711;86;1
+Financial Management;FI728;86;1
+Media and Communication;ME527;86.33;3
+General Chemistry;GE725;86.33;3
+E-commerce Strategies;E-511;86.5;2
+Human Resource Management;HU210;87;1
+Public Speaking;PU418;87;1
+Mobile App Development;MO452;87;1
+Environmental Studies;EN559;87;1
+Web Development;WE496;87.33;3
+General Chemistry;GE342;87.5;2
+Business Law;BU344;87.5;2
+Accounting Principles;AC345;88;1
+Introduction to Economics;IN359;88;2
+International Business;IN407;88;2
+Environmental Studies;EN444;88;3
+Ethics and Society;ET781;88;2
+Artificial Intelligence;AR626;88.33;3
+Logistics Management;LO279;88.5;2
+Cultural Anthropology;CU609;88.5;2
+General Chemistry;GE045;89;1
+Statistics for Data Science;ST049;89;1
+Sociology Basics;SO059;89;3
+Digital Marketing;DI139;89;1
+Database Systems;DA238;89;3
+Operating Systems;OP241;89;1
+Criminal Law;CR266;89;2
+Data Analysis with Excel;DA602;89;1
+Machine Learning;MA670;89;1
+Risk Management;RI793;89;1
+Philosophy of Science;PH343;89.5;2
+Financial Management;FI065;90;1
+Business Law;BU184;90;1
+Data Analysis with Excel;DA296;90;2
+Cultural Anthropology;CU315;90;1
+Civil Law;CI376;90;1
+Cloud Computing Fundamentals;CL428;90;1
+Introduction to Economics;IN517;90;1
+Mobile App Development;MO574;90;2
+Calculus I;CA633;90;1
+Investment Analysis;IN732;90;2
+Introduction to Programming;IN747;90;1
+Mobile App Development;MO185;90.33;3
+Macroeconomics;MA005;90.5;2
+Computer Networks;CO057;90.67;3
+UX/UI Design Principles;UX054;91;1
+Environmental Studies;EN068;91;1
+Big Data Technologies;BI072;91;1
+Cultural Anthropology;CU145;91;1
+Linear Algebra;LI218;91;2
+Web Development;WE307;91;2
+Creative Writing;CR325;91;2
+Banking and Finance;BA392;91;1
+History of Europe;HI727;91;2
+Criminal Law;CR796;91;1
+Human Resource Management;HU577;91.5;2
+Academic Writing;AC707;91.5;2
+History of Europe;HI171;92;2
+Criminal Law;CR219;92;1
+Logistics Management;LO249;92;1
+Academic Writing;AC424;92;1
+Macroeconomics;MA563;92;1
+Macroeconomics;MA638;92;2
+Computer Networks;CO500;92.5;2
+Educational Psychology;ED012;93;1
+Machine Learning;MA036;93;1
+Artificial Intelligence;AR086;93;2
+Organizational Behavior;OR198;93;1
+General Chemistry;GE285;93;1
+Data Analysis with Excel;DA310;93;1
+Organizational Behavior;OR373;93;1
+Organizational Behavior;OR374;93;1
+General Chemistry;GE084;93.5;2
+Data Structures;DA269;93.5;2
+History of Europe;HI323;93.5;2
+Big Data Technologies;BI063;94;1
+Educational Psychology;ED277;94;1
+Web Development;WE367;94;1
+International Business;IN555;94;1
+Statistics for Data Science;ST689;94;1
+Introduction to Economics;IN735;94;1
+Psychology of Learning;PS264;94.5;2
+Civil Law;CI300;95;2
+Cultural Anthropology;CU356;95;1
+Calculus II;CA442;95;1
+Financial Management;FI541;95;1
+Digital Marketing;DI621;95;1
+Public Speaking;PU786;95;1
+Linear Algebra;LI031;96;1
+Advanced SQL Queries;AD291;96;1
+Civil Law;CI410;96;1
+Web Development;WE453;96;1
+Financial Management;FI583;96;1
+Microeconomics;MI637;96;1
+UX/UI Design Principles;UX301;96.5;2
+Banking and Finance;BA125;97;1
+UX/UI Design Principles;UX326;97;1
+Civil Law;CI346;97;1
+Ethics and Society;ET399;97;1
+Marketing Fundamentals;MA478;97;1
+Database Systems;DA533;97;1
+Big Data Technologies;BI539;97;1
+E-commerce Strategies;E-783;97;1
+Artificial Intelligence;AR056;98;1
+Corporate Finance;CO341;98;1
+History of Europe;HI416;98;1
+Risk Management;RI717;98;1
+Logistics Management;LO759;98;1
+Advanced SQL Queries;AD019;98.5;2
+Educational Psychology;ED117;99;1
+Data Structures;DA382;99;1
+Physics for Engineers;PH443;99;1
+Human Resource Management;HU027;100;1
+Criminal Law;CR095;100;1
+Psychology of Learning;PS226;100;1
+Artificial Intelligence;AR227;100;1
+Advanced SQL Queries;AD420;100;1
+Risk Management;RI526;100;1
