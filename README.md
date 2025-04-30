@@ -1,5 +1,5 @@
 # Student-performance-project
-A data analysis project exploring student attendance, course performance, and academic trends using SQL and Power BI.
+This project analyzes university students' performance using SQL and Power BI. It focuses on understanding attendance behavior, course loads, and student outcomes based on a relational database model.
 
 
 ## Project structure
