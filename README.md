@@ -43,7 +43,7 @@ Here are a few Power BI visualizations based on SQL outputs:
 
 ![8. Total Credits by Students](https://github.com/seymurabdullayev/Student-performance-project/blob/main/Power%20BI%20Dashboards/Photos%20of%20Dashboards/8.%20Total%20credits%20by%20students.png?raw=true)
 
-➡️ Full dashboards are available in the [Power BI Dashboards/](./Power%20BI%20Dashboards/) folder.
+Full dashboards are available in the [Power BI Dashboards/](./Power%20BI%20Dashboards/) folder.
 
 
 ## Highlights
