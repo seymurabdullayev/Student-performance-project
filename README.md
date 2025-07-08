@@ -10,14 +10,14 @@ This project analyzes university students' performance using SQL and Power BI. I
 5. [Tables](./Tables/) - Contains 5 data tables used in the analysis ("students", "courses", "attendance", "grades" and "student_courses").
 
 
-## 🛠️Technologies used 
+## Technologies used 
 1. Mockaroo.com - Used to generate realistic sample data for some database tables.
 2. Python - Used to script and generate synthetic datasets for analysis.
 3. MySQL - Relational database design, query writing include joins, subqueries and grouping.
 4. Power BI - Data visualisation and storytelling via interactive dashboards.
 5. GitHub - Version control and portfolio hosting.
 
-## 🧹Data Preparation & Cleaning
+## Data Preparation & Cleaning
 After generating sample datasets using Mockaroo and Python, I thoroughly reviewed and standardized the data types and values in each table to ensure consistency, quality, and suitability for analysis. Key steps included:
 - Converted improperly typed fields (e.g., from "TEXT") to more suitable types such as "VARCHAR", "DATE", "ENUM" etc.
 - Reformatted textual date values into proper SQL "DATE" format.
@@ -36,7 +36,7 @@ Here are examples of the analytical questions I answered using SQL:
 
 ➡️ Each question was solved through an individual SQL query, and the corresponding result was saved as a separate CSV file. All results can be found in the [Questions results](./Questions%20results/) folder.
 
-## 📊 Dashboard Previews
+## Dashboard Previews
 Here are a few Power BI visualizations based on SQL outputs:
 
 ![3. Poor Attendance](https://github.com/seymurabdullayev/Student-performance-project/blob/main/Power%20BI%20Dashboards/Photos%20of%20Dashboards/3.%20Poor%20attendance.png?raw=true)
@@ -46,15 +46,15 @@ Here are a few Power BI visualizations based on SQL outputs:
 ➡️ Full dashboards are available in the [Power BI Dashboards/](./Power%20BI%20Dashboards/) folder.
 
 
-## 📌 Highlights
+## Highlights
 
-- ✅ Generated realistic datasets using both Mockaroo and Python for diverse data modeling.
-- ✅ Designed a normalized relational database with 5 interconnected tables.
-- ✅ Wrote 12 SQL queries to answer business-like questions.
-- ✅ Visualized key insights using Power BI dashboards.
-- ✅ Suitable for portfolio, showcasing SQL + BI integration.
+- Generated realistic datasets using both Mockaroo and Python for diverse data modeling.
+-  Designed a normalized relational database with 5 interconnected tables.
+- Wrote 12 SQL queries to answer business-like questions.
+- Visualized key insights using Power BI dashboards.
+- Suitable for portfolio, showcasing SQL + BI integration.
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out if you'd like to collaborate or give feedback on the project!
 
