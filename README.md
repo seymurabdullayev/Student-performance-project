@@ -27,14 +27,14 @@ After generating sample datasets using Mockaroo and Python, I thoroughly reviewe
 
 These steps were essential for creating a clean, structured, and analysis-ready database for both SQL querying and Power BI visualization.
 
-## 🔍Key Analytical Questions
+## Key Analytical Questions
 Here are examples of the analytical questions I answered using SQL:
 1. Which students have poor attendance records?
 2. Which courses have the highest number of missed classes?
 3. How has enrollment (enrollment_year) increased or decreased over the years?
 4. What is the academic performance of students with the highest course load?
 
-➡️ Each question was solved through an individual SQL query, and the corresponding result was saved as a separate CSV file. All results can be found in the [Questions results](./Questions%20results/) folder.
+Each question was solved through an individual SQL query, and the corresponding result was saved as a separate CSV file. All results can be found in the [Questions results](./Questions%20results/) folder.
 
 ## Dashboard Previews
 Here are a few Power BI visualizations based on SQL outputs:
