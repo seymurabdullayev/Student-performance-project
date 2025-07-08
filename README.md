@@ -1,4 +1,4 @@
-# Student-performance-project
+# Student-Performance-Report
 This project analyzes university students' performance using SQL and Power BI. It focuses on understanding attendance behavior, course loads, and student outcomes based on a relational database model.
 
 
